@@ -1,2 +1,5 @@
-This is a simple bitcoin expense tracker which fetches data through api for the current price of the bitcoin and displays on the website , where you can track your daily expenses of bitcoin with its current valuations.
+This is a simple Bitcoin Expense Tracker that fetches real-time Bitcoin price data through an API and displays it on the website. It allows users to track their daily Bitcoin expenses while viewing current valuations based on market prices. Additionally, it includes features to filter expenses by date and view the difference in valuations over time.
+
+Feel free to checkout through this link -->   bitcoin-expensetracker-b0457b.netlify.app
+
 
